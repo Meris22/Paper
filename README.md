@@ -37,7 +37,7 @@ Each JSON file contains an array of objects. Each primary object has the followi
 | **Credibility of Source** | Assessment of the source’s reliability (0.0 to 1.0). |
 | **Credibility rationale** | A brief justification for your rating. |
 | **Rationale** | The explanation given in the article to support the prediction. |
-| **Modality** | The degree of certainty expressed (0.0 to 1.0). |
+| **Modality** | The degree of certainty expressed (0 to 100%). |
 | **Modality evidence** | The specific phrase or expression justifying the rating. |
 
 ---
