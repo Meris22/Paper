@@ -1,4 +1,5 @@
-# Paper
+# Extraction of Future Statements A Multilingual Benchmark
+
 
 This repository contains the dataset for the paper titled "Extraction of Future Statements: A Multilingual Benchmark". The dataset provides gold-standard annotations for future-looking statements extracted from news articles in three languages.
 
